@@ -13,3 +13,5 @@ This repository shows how to:
 1. Deploy an ADK agent as an A2A Server.
 2. Prepare a JSON Agent Card to describe an A2A agent's capabilities.
 3. Enable another ADK agent to read the Agent Card of your deployed A2A agent and use it as a sub-agent.
+
+Agents deployed on local host URL: http://127.0.0.1:9040/
